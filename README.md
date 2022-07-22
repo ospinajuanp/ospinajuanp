@@ -3,8 +3,8 @@ Soy Estudiante Frontend
 
 
 ✨ Encuéntrame en otros lugares.
-En twitter @LeoCode0
-En Linkedin Leonardo Espinoza
+En twitter @Ospinajuanp
+En Linkedin Ospinajuanp
 
 💻 Tecnologías que utilizo
 HTML CSS JavaScript Sass js Git Github
