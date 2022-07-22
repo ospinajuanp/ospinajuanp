@@ -3,8 +3,9 @@ Soy Estudiante Frontend
 
 
 ✨ Encuéntrame en otros lugares.
-En twitter @Ospinajuanp
-En Linkedin Ospinajuanp
+- En Linkedin Ospinajuanp
+- En twitter @Ospinajuanp
+
 
 💻 Tecnologías que utilizo
 HTML CSS JavaScript Sass js Git Github
