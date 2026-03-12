@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hello, I'm Juan Pablo Ospina Restrepo.<br><br>I'm a DEV Frontend trainee.
+👋🏻 Hello, I'm Juan Pablo Ospina Restrepo.<br><br>I'm a DEV FullStack.
 
 
 ## 🌐 Socials:
